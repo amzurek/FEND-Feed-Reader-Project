@@ -14,7 +14,7 @@ Feed Reader Testing Project tested my ability to use a testing suite (Jasmine), 
 
 ## How to run this project?
 
-   Please, follow this link: https://amzurek.github.io/frontend-nanodegree-feedreader/
+   Please, follow this link: https://amzurek.github.io/FEND-Feed-Reader-Project/
 
 ## Review the Feed Reader Testing
 
